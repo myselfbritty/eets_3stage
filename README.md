@@ -77,7 +77,7 @@ Cudnn == 8.1
 Organize data
 ----------
 
-Here we describe the steps for using the Endoscopic Vision 2017 [1] for instrument-type segmentation.
+Here we describe the steps for using the EETS for instrument-type segmentation.
 
 Download the EETS dataset from [Link](https://drive.google.com/drive/folders/18_w_-aLx55XHfqP1fAlbKNksAaJ45_xm?usp=sharing>). Arrange the data in the folder format
 
