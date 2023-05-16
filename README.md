@@ -79,7 +79,7 @@ Organize data
 
 Here we describe the steps for using the EETS for instrument-type segmentation.
 
-Download the EETS dataset from [Link](https://drive.google.com/drive/folders/18_w_-aLx55XHfqP1fAlbKNksAaJ45_xm?usp=sharing>). Arrange the data in the folder format
+Download the EETS dataset from [Link](https://drive.google.com/drive/folders/1xWVJ_DcePiy5OFdudWz-Hxy6NWRhjn1m?usp=sharing). Arrange the data in the folder format
 
 ::
 
